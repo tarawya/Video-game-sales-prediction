@@ -1,1 +1,1 @@
-# Video-game-sales
+# Video-game-sales-prediction
