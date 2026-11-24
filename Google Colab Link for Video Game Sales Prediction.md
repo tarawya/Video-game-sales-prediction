@@ -1,4 +1,3 @@
-https://colab.research.google.com/drive/1F9mJj7dpqj8RzCF0uVT361E558U-XOye?usp=sharing
 <a href="https://colab.research.google.com/drive/1F9mJj7dpqj8RzCF0uVT361E558U-XOye?usp=sharing" target="_blank">
 Open Video Game Sales Prediction in Google Colab
 </a>
